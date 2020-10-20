@@ -1,11 +1,4 @@
 
-
-#provider "aws" {
-#access_key = "AKIAT6XMA3K3ENNNGDAM"
-#secret_key = "IPLWygvAM21mskbakoPm0yI1n2JnfgcufEEnSYDD"
-#region = "us-east-1"
-#}
-
 resource "aws_instance" "example" {
 ami = "ami-02354e95b39ca8dec"
 instance_type = "t2.micro"
