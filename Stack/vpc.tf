@@ -1,10 +1,3 @@
-#Providers
-
-#provider "aws" {
-#  region     = "us-east-1"
-#  access_key = "AKIAT6XMA3K3ENNNGDAM"
-#  secret_key = "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"
-#}
 
 #IGW
 
